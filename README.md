@@ -4,7 +4,7 @@ A Javascript plugin to spice up your placeholder images.
 
 How It Works
 ------------
-When the page loads, Cagify.js traverses the page, finding all image tags with the class "cagify". It replaces the image's source with a corresponding query to [CageMe](http://cageme.herokuapp.com), a placeholder image generator which uses images of Nicolas Cage in... interesting... situations.
+When the page loads, Cagify.js traverses the page, finding all image tags with the class "cagify". It replaces the image's source with a corresponding query to [CageMe](http://cageme.herokuapp.com), a placeholder image generator which uses images of Nicolas Cage in... interesting... situations. A live demo can be found [here](http://www.cs.wm.edu/~jaweiss/cagify.html).
 
 Get Started
 -----
